@@ -1,3 +1,4 @@
+{{-- create --}}
 @extends('layout.app')
 
 @section('title', 'Buat Postingan')

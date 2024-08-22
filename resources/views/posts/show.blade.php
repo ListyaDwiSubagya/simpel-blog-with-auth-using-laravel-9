@@ -1,3 +1,4 @@
+{{-- article --}}
 @extends('layout.app')
 
 @section('title', "Judul: $post->title")

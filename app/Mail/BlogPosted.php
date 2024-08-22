@@ -18,7 +18,7 @@ class BlogPosted extends Mailable
     protected $post;
 
     /**
-     * Create a new message instance.
+     * Create a new message instance..
      *
      * @return void
      */

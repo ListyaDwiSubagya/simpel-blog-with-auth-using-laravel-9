@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Pong</h2>
+    <h2>Ping</h2>
 </body>
 </html>

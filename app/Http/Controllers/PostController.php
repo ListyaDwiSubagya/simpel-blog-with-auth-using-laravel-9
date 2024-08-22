@@ -162,6 +162,7 @@ class PostController extends Controller
         return redirect('posts');
     }
 
+    // notif tele
     private function notify_telegram($post)
     {
         $api_token = "6435762620:AAH-QS_53wa6Ax162ABMZGMnjHq5UvZMv8c";

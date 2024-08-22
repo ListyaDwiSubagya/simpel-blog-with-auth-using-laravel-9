@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Session;
 
 
+// login
 class AuthController extends Controller
 {
     public function login()

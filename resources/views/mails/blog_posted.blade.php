@@ -1,3 +1,4 @@
+{{-- notif --}}
 <div style="width: 100%">
     Ada Postingan blog yang baru nih... 
 

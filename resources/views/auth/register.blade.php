@@ -1,3 +1,4 @@
+{{-- `register --}}
 @extends('layout.app')
  
 @section('title', 'Register')

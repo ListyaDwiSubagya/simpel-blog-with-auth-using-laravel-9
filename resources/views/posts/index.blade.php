@@ -1,3 +1,4 @@
+{{-- home --}}
 @extends('layout.app')
 
 @section('title')
